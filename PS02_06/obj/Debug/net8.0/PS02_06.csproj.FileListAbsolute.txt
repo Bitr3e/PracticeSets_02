@@ -1,0 +1,14 @@
+C:\Users\johnb\OneDrive\Desktop\PS02_06\bin\Debug\net8.0\PS02_06.exe
+C:\Users\johnb\OneDrive\Desktop\PS02_06\bin\Debug\net8.0\PS02_06.deps.json
+C:\Users\johnb\OneDrive\Desktop\PS02_06\bin\Debug\net8.0\PS02_06.runtimeconfig.json
+C:\Users\johnb\OneDrive\Desktop\PS02_06\bin\Debug\net8.0\PS02_06.dll
+C:\Users\johnb\OneDrive\Desktop\PS02_06\bin\Debug\net8.0\PS02_06.pdb
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.AssemblyInfoInputs.cache
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.AssemblyInfo.cs
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.csproj.CoreCompileInputs.cache
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.dll
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\refint\PS02_06.dll
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.pdb
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\PS02_06.genruntimeconfig.cache
+C:\Users\johnb\OneDrive\Desktop\PS02_06\obj\Debug\net8.0\ref\PS02_06.dll
