@@ -5,7 +5,6 @@
 - Write a program that prints all the odd numbers from 1 to 20 using a for loop.
 
 ## Authors
-Condesa, John Brence S.
-Ducao, Calaisha Mae S.
+Condesa, John Brence S. ; Ducao, Calaisha Mae S.
 
 
