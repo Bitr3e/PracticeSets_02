@@ -1,0 +1,15 @@
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\bin\Debug\net8.0\TryLang.exe
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\bin\Debug\net8.0\TryLang.deps.json
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\bin\Debug\net8.0\TryLang.runtimeconfig.json
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\bin\Debug\net8.0\TryLang.dll
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\bin\Debug\net8.0\TryLang.pdb
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.AssemblyInfoInputs.cache
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.AssemblyInfo.cs
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.csproj.CoreCompileInputs.cache
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.sourcelink.json
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.dll
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\refint\TryLang.dll
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.pdb
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\TryLang.genruntimeconfig.cache
+C:\Users\johnb\OneDrive\Desktop\PracticeSets_02\TryLang\obj\Debug\net8.0\ref\TryLang.dll
