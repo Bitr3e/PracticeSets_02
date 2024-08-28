@@ -1,0 +1,8 @@
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\bin\Debug\PS02_07.exe.config
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\bin\Debug\PS02_07.exe
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\bin\Debug\PS02_07.pdb
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\obj\Debug\PS02_07.csproj.AssemblyReference.cache
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\obj\Debug\PS02_07.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\obj\Debug\PS02_07.csproj.CoreCompileInputs.cache
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\obj\Debug\PS02_07.exe
+C:\Users\Guest User\PracticeSets_02\PS02_07\PS02_07\obj\Debug\PS02_07.pdb
