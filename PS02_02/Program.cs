@@ -10,15 +10,15 @@ namespace PS02_02
     {
         static void Main(string[] args)
         {
-            //yo preeeeeeeeeeee
             int num = 20;
             for (int i = 0; i =< num; i++)
             {
-                if (i % 2 != 0)
+                if (i % 2 == 1)
                 {
                     Console.WriteLine(i);
                 }
             }
+            Console.ReadKey();
         }
     }
 }
